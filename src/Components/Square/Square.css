@@ -1,0 +1,17 @@
+.square {
+  background: rgb(247, 189, 189);
+  border: 3px solid rgb(190, 43, 43);
+  float: left;
+  font-size: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0;
+  text-align: center;
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+  outline: none;
+}
+.square:hover {
+  background-color: rgb(252, 232, 244);
+}
